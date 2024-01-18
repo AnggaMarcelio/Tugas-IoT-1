@@ -1,5 +1,5 @@
-Tugas Pertemuan 1 IoT
-- Jelaskan definisi dan sejarah
+# Tugas Pertemuan 1 IoT
+# - Jelaskan definisi dan sejarah
 Definisi IoT: 
 IoT, atau Internet of Things, adalah konsep di mana objek fisik atau perangkat dapat terhubung dan berkomunikasi melalui internet, dan memungkinkan melakukan pertukaran data. 
 
@@ -17,7 +17,7 @@ Pada tahun 1982, seorang ahli komputer asal Amerika Serikat bernama David Nichol
 
 - 2020 dan Seterusnya: Terus berkembang dengan peningkatan keamanan, standarisasi, dan integrasi teknologi kecerdasan buatan dalam implementasi IoT. IoT menjadi bagian integral dari transformasi digital di berbagai sektor, termasuk kesehatan, manufaktur, dan transportasi.
 
-- Referensi model iot:
+# - Referensi model iot:
 1. Physical Devices & Controller
 Terdiri dari 3 bagian
 •Sensor: Identifikasi aspek fisik dari lingkungan seperti suhu atau jarak.
@@ -42,7 +42,7 @@ Kontrol sistem, pengolahan data dengan machine learning untuk klasifikasi, klast
 7. Collaboration & Prosess
 Memberikan informasi kepada individu untuk tindakan berdasarkan data, termasuk umpan balik proses.
 
-- Macam" kebutuhan iot:
+# - Macam" kebutuhan iot:
 1. Sensor: Komponen kunci dalam IoT, menghasilkan besar data yang dikomunikasikan melalui saluran seperti Wi-Fi.
 
 2. Keamanan: Vital untuk melindungi jaringan IoT dari serangan cyber di empat tingkat, termasuk penyimpanan data sensor, database, komunikasi, dan lingkungan eksekusi.
@@ -61,7 +61,7 @@ Memberikan informasi kepada individu untuk tindakan berdasarkan data, termasuk u
 
 9. Backend atau Penyimpanan Cloud: Tempat penyimpanan, analisis, dan pemrosesan data IoT untuk menghasilkan hasil yang mendukung pengambilan keputusan.
 
-- Contoh" implementasi iot menurut kita
+# - Contoh" implementasi iot menurut kita
 Salah satu contoh implementasi IoT menurut saya adalah menggunakan sistem pintu pagar otomatis yang dapat dikendalikan melalui aplikasi atau perangkat pintar. Pagar tersebut dapat dilengkapi dengan sensor gerak atau sensor kehadiran untuk mendeteksi orang atau kendaraan yang mendekati.
 
 Dengan menggunakan IoT, pemilik rumah dapat membuka atau menutup pagar secara otomatis melalui aplikasi di smartphone mereka. Selain itu, sensor keamanan tambahan seperti kamera CCTV yang terhubung ke sistem IoT dapat memberikan pemantauan visual untuk keamanan tambahan. Semua data dan kontrol dapat diakses dari jarak jauh melalui koneksi internet, memberikan fleksibilitas dan kemudahan penggunaan.
