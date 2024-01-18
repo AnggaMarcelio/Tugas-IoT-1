@@ -1,0 +1,67 @@
+Tugas Pertemuan 1 IoT
+- Jelaskan definisi dan sejarah
+Definisi IoT: 
+IoT, atau Internet of Things, adalah konsep di mana objek fisik atau perangkat dapat terhubung dan berkomunikasi melalui internet, dan memungkinkan melakukan pertukaran data. 
+
+SejarahIoT:
+- 1980-an: Awal Konsep IoT:
+Pada tahun 1982, seorang ahli komputer asal Amerika Serikat bernama David Nichols menciptakan prototipe yang disebut dengan "The Thing" di Carnegie Mellon University. Meskipun tidak sepenuhnya serupa dengan IoT yang kita kenal sekarang, ini adalah salah satu langkah awal dalam eksperimen perangkat terhubung. Pada waktu yang sama, peneliti di Universitas Carnegie Mellon dan MIT sedang bekerja pada proyek yang melibatkan koneksi antarperangkat untuk pertukaran data.
+
+- 2000-an Awal: Konsep IoT pertama kali muncul dengan peneliti yang membayangkan perangkat dapat saling berkomunikasi melalui internet.
+
+- 2008: Istilah "Internet of Things" pertama kali digunakan oleh Kevin Ashton, seorang pengusaha dan peneliti teknologi, untuk menggambarkan konsep ini.
+
+- Awal 2010-an: Perkembangan teknologi sensor, konektivitas nirkabel, dan pemrosesan data mempercepat pertumbuhan IoT. Proyek-proyek awal seperti Smart Cities dan Smart Homes mulai muncul.
+
+- 2015-2018: Pertumbuhan pesat di sektor konsumen dan industri. Perusahaan mulai menerapkan solusi IoT untuk meningkatkan efisiensi operasional dan memberikan layanan baru.
+
+- 2020 dan Seterusnya: Terus berkembang dengan peningkatan keamanan, standarisasi, dan integrasi teknologi kecerdasan buatan dalam implementasi IoT. IoT menjadi bagian integral dari transformasi digital di berbagai sektor, termasuk kesehatan, manufaktur, dan transportasi.
+
+- Referensi model iot:
+1. Physical Devices & Controller
+Terdiri dari 3 bagian
+•Sensor: Identifikasi aspek fisik dari lingkungan seperti suhu atau jarak.
+•Embededed system (Sistem Benam) : Pusat pemrosesan kecil dengan antarmuka IO.
+•Gateway: Perangkat komunikasi yang menghubungkan perangkat fisik ke internet.
+
+2. Connectivity
+Perangkat komunikasi (4G, Wifi, LoRA) yang menghubungkan perangkat fisik dengan edge computing.
+
+3. Edge Computing
+Menangkap data dari sensor dan mempersiapkannya untuk penyimpanan dalam database.
+
+4. Data accumulation
+Menyimpan data yang sudah sampai pada storage (SQL atau NoSQL).
+
+5. Data Abstraction
+Mengatur aliran data di server atau cloud, mengarahkan data ke penyimpanan atau destinasi seperti visualisasi atau machine learning.
+
+6. Application
+Kontrol sistem, pengolahan data dengan machine learning untuk klasifikasi, klaster, dan peramalan.
+
+7. Collaboration & Prosess
+Memberikan informasi kepada individu untuk tindakan berdasarkan data, termasuk umpan balik proses.
+
+- Macam" kebutuhan iot:
+1. Sensor: Komponen kunci dalam IoT, menghasilkan besar data yang dikomunikasikan melalui saluran seperti Wi-Fi.
+
+2. Keamanan: Vital untuk melindungi jaringan IoT dari serangan cyber di empat tingkat, termasuk penyimpanan data sensor, database, komunikasi, dan lingkungan eksekusi.
+
+3. Fault Tolerance: Penting dalam infrastruktur untuk menjaga kinerja sensor saat terjadi kejadian seperti bencana atau gangguan listrik, dengan menggunakan baterai cadangan dan pertimbangan keamanan.
+
+4. Energy Harvesting: Penting untuk sensor yang ditempatkan di lokasi terpencil tanpa pasokan listrik penuh, misalnya dengan menggunakan sel surya untuk menjaga operasional hingga beberapa dekade tanpa intervensi manusia.
+
+5. Konektivitas: Jaringan IoT harus mendukung sensor cepat dan lambat, memastikan komunikasi efisien bahkan pada situasi kritis seperti analisis real-time dari kamera CCTV.
+
+6. Pengelolaan: Karena sensor tersebar jauh, manajemen jarak jauh penting untuk pembaruan sistem, profil, algoritma, dan parameter.
+
+7. Mesh-Networked Devices: Peralatan IoT harus dapat berkomunikasi langsung satu sama lain tanpa bergantung pada jaringan backend, memungkinkan pertukaran data dan kolaborasi dalam pengolahan data
+
+8. API Terbuka: Penting untuk menciptakan layanan yang lebih baik, memungkinkan akses dan penggunaan data yang tersebar untuk pengembangan aplikasi inovatif.
+
+9. Backend atau Penyimpanan Cloud: Tempat penyimpanan, analisis, dan pemrosesan data IoT untuk menghasilkan hasil yang mendukung pengambilan keputusan.
+
+- Contoh" implementasi iot menurut kita
+Salah satu contoh implementasi IoT menurut saya adalah menggunakan sistem pintu pagar otomatis yang dapat dikendalikan melalui aplikasi atau perangkat pintar. Pagar tersebut dapat dilengkapi dengan sensor gerak atau sensor kehadiran untuk mendeteksi orang atau kendaraan yang mendekati.
+
+Dengan menggunakan IoT, pemilik rumah dapat membuka atau menutup pagar secara otomatis melalui aplikasi di smartphone mereka. Selain itu, sensor keamanan tambahan seperti kamera CCTV yang terhubung ke sistem IoT dapat memberikan pemantauan visual untuk keamanan tambahan. Semua data dan kontrol dapat diakses dari jarak jauh melalui koneksi internet, memberikan fleksibilitas dan kemudahan penggunaan.
